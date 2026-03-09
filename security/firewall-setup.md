@@ -28,4 +28,4 @@ Expected output: Status: active
 
 This ensures that the server allows SSH and web traffic while blocking unnecessary ports.
 
-```bash
+```
