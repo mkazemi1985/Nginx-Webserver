@@ -28,7 +28,7 @@ sudo systemctl restart nginx
 
 Enable nginx at boot
 
-Enable nginx at boot
+sudo systemctl enable nginx
 
 
 Test locally
