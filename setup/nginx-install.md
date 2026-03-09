@@ -34,3 +34,4 @@ sudo systemctl enable nginx
 Test locally
 
 curl localhost
+```bash
